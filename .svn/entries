@@ -1,0 +1,126 @@
+8
+
+dir
+0
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz/WinGraphvizMsi/json_Parser
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9d6ee2-d10f-8d45-9816-3cc93827f2c5
+
+.gitignore
+file
+
+
+
+add
+
+.idea
+dir
+
+
+
+add
+
+classifiers
+dir
+
+
+
+add
+
+data
+dir
+
+
+
+add
+
+election2012
+dir
+
+
+
+add
+
+emotion_finder.py
+file
+
+
+
+add
+
+emotion_predictor.py
+file
+
+
+
+add
+
+explanation.md
+file
+
+
+
+add
+
+indicoioo.py
+file
+
+
+
+add
+
+models
+dir
+
+
+
+add
+
+paltoghloo
+dir
+
+
+
+add
+
+results
+dir
+
+
+
+add
+
+sentiment classifier
+dir
+
+
+
+add
+
+tf_idf_sentiment_analysis
+dir
+
+
+
+add
+

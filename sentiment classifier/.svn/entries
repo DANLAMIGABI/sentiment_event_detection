@@ -1,0 +1,56 @@
+8
+
+dir
+0
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz/WinGraphvizMsi/json_Parser/sentiment%20classifier
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9d6ee2-d10f-8d45-9816-3cc93827f2c5
+
+emotion_two_min.py
+file
+
+
+
+add
+
+emotionplot.py
+file
+
+
+
+add
+
+fortest.py
+file
+
+
+
+add
+
+spell_checker.py
+file
+
+
+
+add
+

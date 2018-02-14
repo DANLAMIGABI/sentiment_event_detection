@@ -1,0 +1,98 @@
+8
+
+dir
+0
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz/WinGraphvizMsi/json_Parser/results
+https://wingraphviz.svn.sourceforge.net:443/svnroot/wingraphviz
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9d6ee2-d10f-8d45-9816-3cc93827f2c5
+
+facupdataset.csv
+file
+
+
+
+add
+
+results.txt
+file
+
+
+
+add
+
+title.xlsx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+tokenSpikes.csv
+file
+
+
+
+add
+
+tokenSpikes2.csv
+file
+
+
+
+add
+
+tokenSpikes4.csv
+file
+
+
+
+add
+
+top20Negative.csv
+file
+
+
+
+add
+
+top20Positive.csv
+file
+
+
+
+add
+
+tweets title.txt
+file
+
+
+
+add
+
