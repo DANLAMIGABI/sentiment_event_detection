@@ -44,5 +44,7 @@ genfiles.properties
 ### Data files:
 data/
 models/
+results/
+
 
 
